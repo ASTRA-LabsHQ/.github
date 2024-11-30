@@ -1,11 +1,11 @@
-# Welcome to ASTRO Labs
+# Welcome to ASTRA Labs
 
-**Advanced Security and Threat Research Operations (ASTRO Labs)** is a platform dedicated to malware analysis, reverse engineering, and cybersecurity research. Our mission is to advance knowledge in these fields while sharing insights and educational resources with the broader cybersecurity community.
+**Advanced Security, Threat Research, and Analysis (ASTRA) Labs** is a platform dedicated to malware analysis, reverse engineering, and cybersecurity research. Our mission is to advance knowledge in these fields while sharing insights and educational resources with the broader cybersecurity community.
 
 ---
 
 ## **Our Mission**
-At ASTRO Labs, we focus on:
+At ASTRA Labs, we focus on:
 - **Learning**: Deepening expertise in malware analysis and reverse engineering.
 - **Teaching**: Providing accessible resources, blog posts, and video content to help others enter and excel in the field.
 - **Building**: Creating tools, guides, and research to support cybersecurity professionals and enthusiasts.
@@ -23,7 +23,7 @@ Here’s what you can expect in our repositories:
 ---
 
 ## **Technologies We Use**
-Our work at ASTRO Labs leverages:
+Our work at ASTRA Labs leverages:
 - **Reverse Engineering Tools**: Ghidra, IDA Pro, Cutter, Radare2.  
 - **Programming Languages**: Python, Go, C, and Assembly.  
 - **Dynamic Analysis Environments**: FlareVM, REMnux, and custom malware analysis labs.  
@@ -40,9 +40,9 @@ Follow our blog and YouTube channel for:
 ---
 
 ## **Connect with Us**
-- **Website**: [astro-labs.co](https://astro-labs.co)  
-- **LinkedIn**: [ASTRO Labs](https://linkedin.com/company/astrolabs)  
-- **YouTube**: [ASTRO Labs Channel](https://youtube.com/@astrolabs)
+- **Website**: [astra-labs.co](https://astro-labs.co)  
+- **LinkedIn**: [ASTRA Labs](https://linkedin.com/company/astrolabs)  
+- **YouTube**: [ASTRA Labs Channel](https://youtube.com/@astrolabs)
 
 ---
 
