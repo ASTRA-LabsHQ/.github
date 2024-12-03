@@ -40,7 +40,7 @@ Follow our blog and YouTube channel for:
 ---
 
 ## **Connect with Us**
-- **Website**: [astra-labs.co](https://astro-labs.co)  
+- **Website**: [astra-labs.co](https://astra-labs.co)  
 - **LinkedIn**: [ASTRA Labs](https://linkedin.com/company/astrolabs)  
 - **YouTube**: [ASTRA Labs Channel](https://youtube.com/@astrolabs)
 
