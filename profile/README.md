@@ -41,11 +41,11 @@ Follow our blog and YouTube channel for:
 
 ## **Connect with Us**
 - **Website**: [astra-labs.co](https://astra-labs.co)  
-- **LinkedIn**: [ASTRA Labs](https://linkedin.com/company/astrolabs)  
-- **YouTube**: [ASTRA Labs Channel](https://youtube.com/@astrolabs)
+- **LinkedIn**: [ASTRA Labs](https://linkedin.com/company/astra-labs-co)  
+- **YouTube**: [ASTRA Labs Channel](https://www.youtube.com/@Astra-labs)
 
 ---
 
 ## 📧 **Contact**
-For inquiries, reach out to us at **[astrolabs.research@gmail.com](mailto:astrolabs.research@gmail.com)**.  
+For inquiries, reach out to us at **[astralabs.research@gmail.com](mailto:astralabs.research@gmail.com)**.  
 
