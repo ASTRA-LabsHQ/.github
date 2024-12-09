@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FASTRA-LabsHQ&count_bg=%232C2E47&title_bg=%231E1E2E&icon=tor.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-**Advanced Security, Threat Research, and Analysis (ASTRA) Labs** is a platform dedicated to malware analysis, reverse engineering, and cybersecurity research. Our mission is to advance knowledge in these fields while sharing insights and educational resources with the broader cybersecurity community.
+**Advanced Security Threat Research, and Analysis (ASTRA) Labs** is a platform dedicated to malware analysis, reverse engineering, and cybersecurity research. Our mission is to advance knowledge in these fields while sharing insights and educational resources with the broader cybersecurity community.
 
 ---
 
