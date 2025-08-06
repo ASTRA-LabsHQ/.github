@@ -15,26 +15,14 @@ At ASTRA Labs, we focus on:
 
 ## **Repositories**
 Here’s what you can expect in our repositories:
-- **[Malware Development]**(https://github.com/ASTRA-LabsHQ/Malware-Development)
-- **[Malware Analysis Resources]** (https://github.com/ASTRA-LabsHQ/Malware-Analysis-Resources)
-- **Malware Analysis Write-Ups**: Step-by-step guides to analyzing real-world malware samples.  
-- **Tools and Scripts**: Open-source tools for malware research and reverse engineering.  
-- **Educational Resources**: Cheat sheets, setup guides, and curated learning materials.  
-- **Challenges and CTFs**: Malware analysis and reverse engineering challenges for learners of all levels.  
-
----
-
-## **Technologies We Use**
-Our work at ASTRA Labs leverages:
-- **Reverse Engineering Tools**: Ghidra, IDA Pro, Cutter, Radare2.  
-- **Programming Languages**: Python, Go, C, and Assembly.  
-- **Dynamic Analysis Environments**: FlareVM, REMnux, and custom malware analysis labs.  
-- **Threat Research Tools**: YARA, Wireshark, and Sysinternals Suite.  
+- [Malware Development](https://github.com/ASTRA-LabsHQ/Malware-Development)
+- [Malware Analysis Resources](https://github.com/ASTRA-LabsHQ/Malware-Analysis-Resources)
+- [APT Compendium](https://github.com/ASTRA-LabsHQ/APT-Compendium)
 
 ---
 
 ## **Educational Content**
-Follow our blog and YouTube channel for:
+Follow our [blog](https://astralabs-co.medium.com/) and [YouTube channel](https://www.youtube.com/@Astra-Labs) for:
 - Tutorials on malware analysis and reverse engineering.  
 - Research write-ups on vulnerabilities and exploits.  
 - Discussions on cybersecurity trends and techniques.  
