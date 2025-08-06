@@ -15,6 +15,8 @@ At ASTRA Labs, we focus on:
 
 ## **Repositories**
 Here’s what you can expect in our repositories:
+- **[Malware Development]**(https://github.com/ASTRA-LabsHQ/Malware-Development)
+- **[Malware Analysis Resources]** (https://github.com/ASTRA-LabsHQ/Malware-Analysis-Resources)
 - **Malware Analysis Write-Ups**: Step-by-step guides to analyzing real-world malware samples.  
 - **Tools and Scripts**: Open-source tools for malware research and reverse engineering.  
 - **Educational Resources**: Cheat sheets, setup guides, and curated learning materials.  
