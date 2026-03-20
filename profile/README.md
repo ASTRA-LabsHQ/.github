@@ -18,6 +18,7 @@ Here’s what you can expect in our repositories:
 - [Malware Development](https://github.com/ASTRA-LabsHQ/Malware-Development)
 - [Malware Analysis Resources](https://github.com/ASTRA-LabsHQ/Malware-Analysis-Resources)
 - [APT Compendium](https://github.com/ASTRA-LabsHQ/APT-Compendium)
+- [AV-Engine](https://github.com/ASTRA-LabsHQ/Astra-AV-Engine)
 
 ---
 
